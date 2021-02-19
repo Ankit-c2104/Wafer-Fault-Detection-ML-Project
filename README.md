@@ -103,3 +103,9 @@ In this step, we perform different sets of validation on the given set of traini
 
 5) Once the prediction is made for all the clusters, the predictions along with the Wafer names are saved in a CSV file at a given location and the location is returned to the client.
 
+Language Used - Python
+Front End by - iNeuron
+Framework - Flask
+Algorihtms - Rnadom Forest Classifier and XGBoost Classifier
+Tools - PyCharm
+Accuracy Metric - AUC Score
