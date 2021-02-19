@@ -1,4 +1,7 @@
 # Wafer-Fault-Detection-ML-Project
+
+Due to file size constrains I have uploaded the Files in the Google Drive.
+
 Google Drive Link - https://drive.google.com/drive/folders/1pDwfaBHxGR-kp2resAeNljrr7Huv8KcT?usp=sharing
 
 ## Poblem Statement:  
