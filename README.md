@@ -47,7 +47,7 @@ Null values in columns - If any of the columns in a file have all the values as 
 
 2) Data Preprocessing   
   
-  a) Check for null values in the columns. If present, impute the null values using the KNN imputer.
+   a) Check for null values in the columns. If present, impute the null values using the KNN imputer.
    
    b) Check if any column has zero standard deviation, remove such columns as they don't give any information during model training.
 
