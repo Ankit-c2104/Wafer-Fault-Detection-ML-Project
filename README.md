@@ -121,12 +121,17 @@ In this step, we perform different sets of validation on the given set of traini
 
 ## Advantages of using AWS Elastic Beanstalk :-
  1.AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker   on familiar servers such as Apache, Nginx, Passenger, and IIS.
+ 
  2.You can simply upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health       monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.
+ 
  3.There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.
+ 
  4.Increased productivity - 
   Since all the provisions and operations regarding the infrastructure and managing the application are handled by the Elastic Beanstalk, you as the developer don’t have to       waste   your time or learn the skills.
+ 
  5.Auto Scaling - 
   Based on what the specific needs of your application are, Elastic Beanstalk will automatically scale your application up and down. For this, it uses its Auto scaling settings   that you can adjust to suit your needs.
+ 
  6.Resource Control - 
   For all the AWS resources like Amazon EC2 that are powering your application, you will have full control. This will help you take manual control of your application’s        infrastructure if and whenever you desire to do so.
   
